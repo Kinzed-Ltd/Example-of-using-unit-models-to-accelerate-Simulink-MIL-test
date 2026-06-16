@@ -1,4 +1,4 @@
-# Unit Models in Simulink MIL Tests
+# Use Unit Models to Accelerate Simulink MIL Tests
 
 ## 1. The Purpose of Creating Unit Models
 
